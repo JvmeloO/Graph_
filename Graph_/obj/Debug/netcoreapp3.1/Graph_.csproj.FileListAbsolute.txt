@@ -1,0 +1,13 @@
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.exe
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.deps.json
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.runtimeconfig.json
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.runtimeconfig.dev.json
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.dll
+C:\Users\jvmel\source\repos\Graph_\Graph_\bin\Debug\netcoreapp3.1\Graph_.pdb
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.csprojAssemblyReference.cache
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.csproj.CoreCompileInputs.cache
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.AssemblyInfoInputs.cache
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.AssemblyInfo.cs
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.dll
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.pdb
+C:\Users\jvmel\source\repos\Graph_\Graph_\obj\Debug\netcoreapp3.1\Graph_.genruntimeconfig.cache
